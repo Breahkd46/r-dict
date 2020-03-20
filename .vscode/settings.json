@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "cstring": "c",
+        "rdict.h": "c",
+        "rpc.h": "c",
+        "types.h": "c",
+        "auth.h": "c",
+        "clnt.h": "c",
+        "rpc_msg.h": "c",
+        "auth_unix.h": "c",
+        "auth_des.h": "c",
+        "svc_auth.h": "c",
+        "svc.h": "c",
+        "pmap_clnt.h": "c",
+        "pmap_prot.h": "c",
+        "rpcb_clnt.h": "c",
+        "svc_mt.h": "c",
+        "xdr.h": "c",
+        "clnt_stat.h": "c",
+        "socket.h": "c",
+        "netconfig.h": "c",
+        "rpcb_prot.h": "c",
+        "rpcent.h": "c",
+        "string.h": "c"
+    }
+}
